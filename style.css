@@ -1,0 +1,46 @@
+body {
+color: rgb(247, 146, 64);
+background: rgb(255, 248, 227);
+margin: 10px
+
+}
+
+
+
+header {
+
+border-bottom: solid 10px rgb(211, 20, 20);
+padding: 50px;
+font-size: 50px;
+color: rgb(131, 3, 3);
+
+}
+
+
+section {
+
+background: rgb(214, 39, 39);
+padding-bottom: 50px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+
+
+}
+
+
+
+.chamada {
+    background: rgb(224, 185, 99);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
